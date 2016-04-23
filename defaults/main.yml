@@ -8,5 +8,5 @@ security_sudoers_passworded: []
 
 security_autoupdate_enabled: true
 
-security_autoupdate_mail_to: null
+security_autoupdate_mail_to: ""
 security_autoupdate_mail_on_error: true
